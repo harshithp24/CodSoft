@@ -1,4 +1,4 @@
-In this repository I've shared my CodSoft internship tasks.
+In this repository, I've shared my CodSoft internship tasks.
 
  Task 1: Designed a calculator with basic arithmetic operations. User is allowed to enter two numbers and choose an operation. Perform the calculation and display the result.
 
